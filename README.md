@@ -1,5 +1,6 @@
 # MusicPlayerApi
 Creacion de API parecida a Spotify con Nodejs y Express.
+
 -Este proyecto usara el sistema de base de datos noSQL Mongodb, luego voy a implementar SQL en el mismo  
 ![image](https://user-images.githubusercontent.com/94048851/204615750-76d9999e-936d-4ddf-92cf-ef41050b4eb2.png)
 
