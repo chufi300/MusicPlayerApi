@@ -14,5 +14,7 @@ Creacion de API parecida a Spotify con Nodejs y Express.
 ![image](https://user-images.githubusercontent.com/94048851/204618050-0b66dbfc-c168-4f7d-a985-61596a0ddc2b.png)
 
 *Falta implementacion completa de JWT 
+
 *Proteccion de rutas por ROLES
+
 *Implementacion de SQL 
